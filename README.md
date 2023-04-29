@@ -1,5 +1,10 @@
 <h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Welcome To My Github Profile ♥</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Flutter+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
 <br/>
