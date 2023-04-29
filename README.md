@@ -17,7 +17,7 @@
 
 ### Languages and Tools 🛠 : 
 
-![Dart](https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png)
+![Dart](https://img.shields.io/badge/-dart-%231572B6?style=flat-square&logo=dart)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
