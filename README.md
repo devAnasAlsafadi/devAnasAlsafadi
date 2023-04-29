@@ -5,11 +5,12 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Anas Alsafadi. I'm a Flutter Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of Mobile apps. For This Moment I'm junior Mobile developer and learning increasingly. </h4>
 
+<br/>
+<img align="right" src="https://media4.giphy.com/media/9D7JJAsoOxH1vajS6b/giphy.gif?cid=ecf05e479xot6euzlldn776kf4doyupwku41m7z30uyifi4s&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="190" height="340">
 
 	
 
@@ -17,7 +18,7 @@
 
 ### Languages and Tools 🛠 : 
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-dart-%231572B6?style=flat-square&logo=dart)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
