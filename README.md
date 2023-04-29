@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Anas, Welcome To My Github Profile ♥</h1>
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Welcome To My Github Profile ♥</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
@@ -19,4 +19,11 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+### Connect with Me :
+
+<a href="https://www.linkedin.com/in/anas-al-safadi-97039924a/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20FOUAD-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=00201002204656)
+
+
 
